@@ -1,8 +1,8 @@
 package test;
 
 import org.junit.Test;
-import src.main.java.MainProgram.DBconn;
-import src.main.java.Model.Turnamen;
+import MainProgram.DBconn;
+import Model.Turnamen;
 import java.sql.*;
 import static org.junit.Assert.*;
 
