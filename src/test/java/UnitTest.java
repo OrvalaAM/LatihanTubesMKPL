@@ -17,7 +17,7 @@ public class UnitTest {
         }
         assertEquals(con, DBconn.getConnection());
     }
-    
+    @Test
     public void testNamaTurnamen(){
         Turnamen turnamenTest = new Turnamen("Nama", "peserta");
         assertEquals("Nama", turnamenTest.getNamaTurnamen());
