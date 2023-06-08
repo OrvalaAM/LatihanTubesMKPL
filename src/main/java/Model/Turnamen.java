@@ -37,7 +37,7 @@ public class Turnamen {
         return idTurnamen;
     }
     public String getNamaTurnamen(){
-        return namaTurnamen;
+        return peserta;
     }
     public String getPeserta() {
         return peserta;
