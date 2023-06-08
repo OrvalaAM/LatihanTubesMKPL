@@ -1,9 +1,9 @@
-package src.main.java.Model;
+package Model;
 
-import src.main.java.Controller.DashboardAdminController;
-import src.main.java.MainProgram.DBconn;
-import src.main.java.View.DashboardAdminView;
-import src.main.java.View.LoginView;
+import Controller.DashboardAdminController;
+import MainProgram.DBconn;
+import View.DashboardAdminView;
+import View.LoginView;
 import java.awt.Frame;
 import java.sql.Connection;
 import java.sql.Statement;

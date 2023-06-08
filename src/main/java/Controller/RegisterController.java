@@ -1,8 +1,8 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.MainProgram.DBconn;
-import src.main.java.View.LoginView;
-import src.main.java.View.RegisterView;
+import MainProgram.DBconn;
+import View.LoginView;
+import View.RegisterView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.Connection;

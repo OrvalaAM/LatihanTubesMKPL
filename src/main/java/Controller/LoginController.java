@@ -1,4 +1,4 @@
-package src.main.java.Controller;
+package Controller;
 
 import MainProgram.DBconn;
 import Model.Admin;

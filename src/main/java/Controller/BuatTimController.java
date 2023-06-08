@@ -1,9 +1,9 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.Model.Tim;
-import src.main.java.Model.User;
-import src.main.java.View.BuatTimView;
-import src.main.java.View.MenuTimView;
+import Model.Tim;
+import Model.User;
+import View.BuatTimView;
+import View.MenuTimView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

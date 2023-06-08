@@ -1,10 +1,10 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.MainProgram.DBconn;
-import src.main.java.Model.Turnamen;
-import src.main.java.Model.User;
-import src.main.java.View.DashboardUserView;
-import src.main.java.View.JoinTurnamenView;
+import MainProgram.DBconn;
+import Model.Turnamen;
+import Model.User;
+import View.DashboardUserView;
+import View.JoinTurnamenView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.sql.Connection;

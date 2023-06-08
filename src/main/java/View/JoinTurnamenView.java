@@ -1,8 +1,8 @@
-package src.main.java.View;
+package View;
 
-import src.main.java.Controller.JoinTurnamenController;
-import src.main.java.Model.Turnamen;
-import src.main.java.Model.User;
+import Controller.JoinTurnamenController;
+import Model.Turnamen;
+import Model.User;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import javax.swing.DefaultComboBoxModel;

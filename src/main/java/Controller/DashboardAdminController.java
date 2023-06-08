@@ -1,10 +1,10 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.Model.Admin;
-import src.main.java.View.BuatBeritaView;
-import src.main.java.View.BuatTurnamenView;
-import src.main.java.View.DashboardAdminView;
-import src.main.java.View.LoginView;
+import Model.Admin;
+import View.BuatBeritaView;
+import View.BuatTurnamenView;
+import View.DashboardAdminView;
+import View.LoginView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

@@ -1,9 +1,9 @@
-package src.main.java.View;
+package View;
 
-import src.main.java.Model.Berita;
-import src.main.java.Model.Event;
-import src.main.java.Model.HasilPertandingan;
-import src.main.java.Model.ProfilPemain;
+import Model.Berita;
+import Model.Event;
+import Model.HasilPertandingan;
+import Model.ProfilPemain;
 
 public class PopUpBerita extends javax.swing.JDialog {
 

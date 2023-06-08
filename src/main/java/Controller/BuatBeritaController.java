@@ -1,12 +1,12 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.MainProgram.DBconn;
-import src.main.java.Model.Admin;
-import src.main.java.Model.Berita;
-import src.main.java.Model.HasilPertandingan;
-import src.main.java.Model.ProfilPemain;
-import src.main.java.View.BuatBeritaView;
-import src.main.java.View.DashboardAdminView;
+import MainProgram.DBconn;
+import Model.Admin;
+import Model.Berita;
+import Model.HasilPertandingan;
+import Model.ProfilPemain;
+import View.BuatBeritaView;
+import View.DashboardAdminView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;

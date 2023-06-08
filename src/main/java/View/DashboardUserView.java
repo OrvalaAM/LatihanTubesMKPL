@@ -1,4 +1,4 @@
-package src.main.java.View;
+package View;
 
 import java.awt.event.ActionListener;
 

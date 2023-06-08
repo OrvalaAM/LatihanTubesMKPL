@@ -1,7 +1,7 @@
-package src.main.java.View;
+package View;
 
-import src.main.java.MainProgram.DBconn;
-import src.main.java.Model.Turnamen;
+import MainProgram.DBconn;
+import Model.Turnamen;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseListener;
 import java.sql.Connection;

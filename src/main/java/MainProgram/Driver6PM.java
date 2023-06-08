@@ -1,7 +1,7 @@
-package src.main.java.MainProgram;
+package MainProgram;
 
-import src.main.java.Controller.LoginController;
-import src.main.java.View.LoginView;
+import Controller.LoginController;
+import View.LoginView;
 public class Driver6PM {
     public static void main(String[] args){
         LoginView menuLogin = new LoginView();

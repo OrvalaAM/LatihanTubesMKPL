@@ -1,4 +1,4 @@
-package src.main.java.Model;
+package Model;
 
 public abstract class Akun {
     private String username;

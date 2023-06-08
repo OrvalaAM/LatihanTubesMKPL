@@ -1,10 +1,10 @@
-package src.main.java.View;
+package View;
 
-import src.main.java.MainProgram.DBconn;
-import src.main.java.Model.Berita;
-import src.main.java.Model.Event;
-import src.main.java.Model.HasilPertandingan;
-import src.main.java.Model.ProfilPemain;
+import MainProgram.DBconn;
+import Model.Berita;
+import Model.Event;
+import Model.HasilPertandingan;
+import Model.ProfilPemain;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseListener;
 import java.sql.Connection;

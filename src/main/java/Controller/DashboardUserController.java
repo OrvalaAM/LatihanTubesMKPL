@@ -1,11 +1,11 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.Model.User;
-import src.main.java.View.DashboardUserView;
-import src.main.java.View.DaftarBeritaView;
-import src.main.java.View.JoinTurnamenView;
-import src.main.java.View.LoginView;
-import src.main.java.View.MenuTimView;
+import Model.User;
+import View.DashboardUserView;
+import View.DaftarBeritaView;
+import View.JoinTurnamenView;
+import View.LoginView;
+import View.MenuTimView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 

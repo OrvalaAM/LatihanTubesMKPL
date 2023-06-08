@@ -1,11 +1,11 @@
-package src.main.java.Model;
+package Model;
 
-import src.main.java.Controller.DashboardUserController;
-import src.main.java.MainProgram.DBconn;
-import src.main.java.View.DaftarBeritaView;
-import src.main.java.View.DashboardUserView;
-import src.main.java.View.LoginView;
-import src.main.java.View.PopUpBerita;
+import Controller.DashboardUserController;
+import MainProgram.DBconn;
+import View.DaftarBeritaView;
+import View.DashboardUserView;
+import View.LoginView;
+import View.PopUpBerita;
 import java.awt.Frame;
 import java.sql.Connection;
 import java.sql.ResultSet;

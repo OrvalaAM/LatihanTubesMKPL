@@ -1,9 +1,9 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.Model.Berita;
-import src.main.java.Model.User;
-import src.main.java.View.DaftarBeritaView;
-import src.main.java.View.DashboardUserView;
+import Model.Berita;
+import Model.User;
+import View.DaftarBeritaView;
+import View.DashboardUserView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;

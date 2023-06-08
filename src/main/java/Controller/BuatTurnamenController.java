@@ -1,10 +1,10 @@
-package src.main.java.Controller;
+package Controller;
 
-import src.main.java.MainProgram.DBconn;
-import src.main.java.Model.Admin;
-import src.main.java.Model.Turnamen;
-import src.main.java.View.BuatTurnamenView;
-import src.main.java.View.DashboardAdminView;
+import MainProgram.DBconn;
+import Model.Admin;
+import Model.Turnamen;
+import View.BuatTurnamenView;
+import View.DashboardAdminView;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
