@@ -22,5 +22,10 @@ public class UnitTest {
         Turnamen turnamenTest = new Turnamen("Nama", "peserta");
         assertEquals("Nama", turnamenTest.getNamaTurnamen());
     }
+    @Test
+    public void testPesertaTurnamen(){
+        Turnamen turnamenTest = new Turnamen("Nama", "peserta");
+        assertEquals("peserta", turnamenTest.getPeserta());
+    }
     
 }
