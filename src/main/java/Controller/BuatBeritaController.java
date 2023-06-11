@@ -33,6 +33,7 @@ public class BuatBeritaController {
             
             String judul = menu.getJudul();
             String penulis = menu.getPenulis();
+            
             String isiBerita = menu.getIsi();
             String lampiran = menu.getDetail();
             String kategori = menu.getKategori();
